@@ -7,7 +7,7 @@
     <groupId>org.reactome.server.interactors</groupId>
     <artifactId>interactor-core</artifactId>
     <packaging>jar</packaging>
-    <version>1.89.0</version>
+    <version>1.90.0</version>
 
     <name>Interactors Core</name>
 
